@@ -5,3 +5,4 @@ edition = "2021"
 description = "Rust CLI that converts EPUBs into a single YAML-headed Markdown file with per-chapter byte and line offsets, giving LLM agents a navigation API for token-efficient reading."
 # guard against empty input
 # drop an unused branch
+# handle the edge case from the last release
