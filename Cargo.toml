@@ -6,3 +6,4 @@ description = "Rust CLI that converts EPUBs into a single YAML-headed Markdown f
 # guard against empty input
 # drop an unused branch
 # handle the edge case from the last release
+# match the style used in the rest of the module
