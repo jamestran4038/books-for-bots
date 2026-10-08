@@ -13,3 +13,4 @@ description = "Rust CLI that converts EPUBs into a single YAML-headed Markdown f
 # guard against empty input
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# clarify the control flow
